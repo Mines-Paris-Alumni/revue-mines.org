@@ -4,7 +4,7 @@ email: tcantelobre@minesalumni.fr
 author: Théophile Cantelobre, Directeur de publication
 description: "Revue du réseau des Mines de Paris, Mines de Nancy et Mines de Saint-Etienne"
 baseurl: ""
-url: "https://mines-paris.org"
+url: "https://revue-mines.org"
 date_format: "%-d %B %Y"
 header_pages:
   - about.md
