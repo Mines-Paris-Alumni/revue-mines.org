@@ -8,8 +8,11 @@ url: "https://revue-mines.org"
 date_format: "%-d %B %Y"
 header_pages:
   - about.md
-  - contact.html
+  - archives.md
   - nous-rejoindre.md
+  - contact.html
+
+lang: fr
 
 # Optional features
 animated: false
