@@ -2,8 +2,7 @@
 layout:     post
 title:      "Fin du monopole SNCF et règles du jeu en Europe"
 date:       2024-12-08 12:32:18
-summary:    Grâce à l’engagement du Comité de rédaction, piloté ces cinq dernières années par Didier Perrin (P85), la Revue des Mines s’est modernisée. Aujourd’hui, Didier passe le relais, laissant une revue restructurée et en pleine évolution. Nous recrutons le futur Rédacteur (ou rédactrice) en chef de la Revue.
-hidden: true
+summary:    L’ouverture à la concurrence du rail européen marque une transformation majeure pour le secteur en France. Cet article explore les premières leçons tirées de cette libéralisation, ses impacts sur les services ferroviaires et le rôle crucial des régulateurs pour garantir un accès équitable et non discriminatoire au réseau.
 ---
 
 par **Cyprien d'Harcourt (P14)**
